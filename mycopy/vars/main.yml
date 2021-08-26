@@ -1,0 +1,4 @@
+---
+# vars file for mycop
+scrdir: /Users/nitishkumar/Desktop/myfile.conf
+destdir: /tmp/myfile.conf
