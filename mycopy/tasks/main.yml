@@ -1,0 +1,4 @@
+---
+- import_tasks: file_create.yml
+- import_tasks: copy_file.yml
+- import_tasks: execute_shell.yml
